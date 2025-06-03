@@ -1,0 +1,6 @@
+@apiWebpractice_HostAddress = http://mygamelibrary
+
+GET {{apiWebpractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

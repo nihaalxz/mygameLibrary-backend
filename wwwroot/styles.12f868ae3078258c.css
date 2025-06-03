@@ -1,0 +1,14 @@
+form input::placeholder {
+    font-weight: 300
+}
+
+form input.ng-invalid {
+    border-color: red
+}
+
+form input.ng-valid {
+    border-color: green
+}
+body {
+    background-color: #ffd800;
+}

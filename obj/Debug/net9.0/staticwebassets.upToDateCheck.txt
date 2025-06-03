@@ -1,0 +1,16 @@
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\3rdpartylicenses.txt
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\gameController.ico
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\styles.12f868ae3078258c.css
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\polyfills.ab9b321a0fa4f29a.js
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\main.acdc69099c9fdee5.js
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\favicon.ico
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\index.html
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\wwwroot\runtime.9cf8d86347a53186.js
+wwwroot\3rdpartylicenses.txt
+wwwroot\favicon.ico
+wwwroot\gameController.ico
+wwwroot\index.html
+wwwroot\main.acdc69099c9fdee5.js
+wwwroot\polyfills.ab9b321a0fa4f29a.js
+wwwroot\runtime.9cf8d86347a53186.js
+wwwroot\styles.12f868ae3078258c.css

@@ -1,0 +1,2742 @@
+{
+  "Version": 1,
+  "Hash": "CDsHKhrVvC1vNJPWHlZEJMTaR8yUfZEeV4EWzbfHiTA=",
+  "Source": "apiWebpractice",
+  "BasePath": "_content/apiWebpractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "apiWebpractice\\wwwroot",
+      "Source": "apiWebpractice",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\1odetb03ev-motf3pw5n7.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint=motf3pw5n7}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\3rdpartylicenses.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zmmgbjaril",
+      "Integrity": "m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\4j6avmp85d-7h5162vxcz.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "gameController#[.{fingerprint=7h5162vxcz}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o3x9xdw0wj",
+      "Integrity": "LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\65rk88ic3o-b6b56o3puo.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "styles.12f868ae3078258c#[.{fingerprint=b6b56o3puo}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4qvjfz4365",
+      "Integrity": "pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\bj40nk9shw-8tqmtfx85d.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "polyfills.ab9b321a0fa4f29a#[.{fingerprint=8tqmtfx85d}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "labzsdudao",
+      "Integrity": "7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\eaymhqa00c-egzbut2n1u.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "main.acdc69099c9fdee5#[.{fingerprint=egzbut2n1u}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ocksn1bqiv",
+      "Integrity": "CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\hbrxus1dmj-nf69tc4d23.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "favicon#[.{fingerprint=nf69tc4d23}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bamabd8uae",
+      "Integrity": "rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\i56um3jb75-4wrewz9oh6.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "index#[.{fingerprint=4wrewz9oh6}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7t0xtb2lq4",
+      "Integrity": "pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\mgist2n98n-yozothd93o.gz",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "runtime.9cf8d86347a53186#[.{fingerprint=yozothd93o}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\runtime.9cf8d86347a53186.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j3soacykwd",
+      "Integrity": "P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\runtime.9cf8d86347a53186.js"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\3rdpartylicenses.txt",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "motf3pw5n7",
+      "Integrity": "+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nf69tc4d23",
+      "Integrity": "LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "gameController#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7h5162vxcz",
+      "Integrity": "BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gameController.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4wrewz9oh6",
+      "Integrity": "TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "main.acdc69099c9fdee5#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "egzbut2n1u",
+      "Integrity": "Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.acdc69099c9fdee5.js"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "polyfills.ab9b321a0fa4f29a#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8tqmtfx85d",
+      "Integrity": "xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills.ab9b321a0fa4f29a.js"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\runtime.9cf8d86347a53186.js",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "runtime.9cf8d86347a53186#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yozothd93o",
+      "Integrity": "TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\runtime.9cf8d86347a53186.js"
+    },
+    {
+      "Identity": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css",
+      "SourceId": "apiWebpractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\",
+      "BasePath": "_content/apiWebpractice",
+      "RelativePath": "styles.12f868ae3078258c#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b6b56o3puo",
+      "Integrity": "013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.12f868ae3078258c.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "3rdpartylicenses.motf3pw5n7.txt",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\1odetb03ev-motf3pw5n7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000217155266"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "motf3pw5n7"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.motf3pw5n7.txt",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "motf3pw5n7"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.motf3pw5n7.txt.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\1odetb03ev-motf3pw5n7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "motf3pw5n7"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\1odetb03ev-motf3pw5n7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000217155266"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pTxyU6nZ8vcHTmKyMUEA23wgkzmS6769P7VGArkPgs="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\1odetb03ev-motf3pw5n7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m019tchJ+wdYXIl3ixoyZOx2kFFajhniQhGiE3A2wog="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\hbrxus1dmj-nf69tc4d23.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001028806584"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\hbrxus1dmj-nf69tc4d23.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.nf69tc4d23.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\hbrxus1dmj-nf69tc4d23.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001028806584"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nf69tc4d23"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.nf69tc4d23.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nf69tc4d23"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQpPWnfHiLCEkZsbjK1XE9nfwziO8plpxMtmwoCS5oM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.nf69tc4d23.ico.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\hbrxus1dmj-nf69tc4d23.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nf69tc4d23"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTHec6LjMM6rgSAEPtX4e+BDN1OqpIaa3XlRM/nHIz8="
+        }
+      ]
+    },
+    {
+      "Route": "gameController.7h5162vxcz.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\4j6avmp85d-7h5162vxcz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000360620267"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7h5162vxcz"
+        },
+        {
+          "Name": "label",
+          "Value": "gameController.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8="
+        }
+      ]
+    },
+    {
+      "Route": "gameController.7h5162vxcz.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7h5162vxcz"
+        },
+        {
+          "Name": "label",
+          "Value": "gameController.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8="
+        }
+      ]
+    },
+    {
+      "Route": "gameController.7h5162vxcz.ico.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\4j6avmp85d-7h5162vxcz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7h5162vxcz"
+        },
+        {
+          "Name": "label",
+          "Value": "gameController.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY="
+        }
+      ]
+    },
+    {
+      "Route": "gameController.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\4j6avmp85d-7h5162vxcz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000360620267"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8="
+        }
+      ]
+    },
+    {
+      "Route": "gameController.ico",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BfBeHisf6y2c1bzCHzsNN2by+sZykPGxUEh95ujouR8="
+        }
+      ]
+    },
+    {
+      "Route": "gameController.ico.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\4j6avmp85d-7h5162vxcz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LNuy8WQG1ES4HiW/rllxCdR0SMJpfNw3b1z+8POItyY="
+        }
+      ]
+    },
+    {
+      "Route": "index.4wrewz9oh6.html",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\i56um3jb75-4wrewz9oh6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001531393568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wrewz9oh6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk="
+        }
+      ]
+    },
+    {
+      "Route": "index.4wrewz9oh6.html",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wrewz9oh6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk="
+        }
+      ]
+    },
+    {
+      "Route": "index.4wrewz9oh6.html.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\i56um3jb75-4wrewz9oh6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wrewz9oh6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\i56um3jb75-4wrewz9oh6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001531393568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TF/G7WZa9k3QQF5dmavVsfvdZLGdwV/QDh4dL0wkAlk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\i56um3jb75-4wrewz9oh6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:39:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pdTI2DfsdaCdt0vikp5p4mtqi8pMmEONMMdMzuRarro="
+        }
+      ]
+    },
+    {
+      "Route": "main.acdc69099c9fdee5.egzbut2n1u.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\eaymhqa00c-egzbut2n1u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012862233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77746"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egzbut2n1u"
+        },
+        {
+          "Name": "label",
+          "Value": "main.acdc69099c9fdee5.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY="
+        }
+      ]
+    },
+    {
+      "Route": "main.acdc69099c9fdee5.egzbut2n1u.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egzbut2n1u"
+        },
+        {
+          "Name": "label",
+          "Value": "main.acdc69099c9fdee5.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY="
+        }
+      ]
+    },
+    {
+      "Route": "main.acdc69099c9fdee5.egzbut2n1u.js.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\eaymhqa00c-egzbut2n1u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egzbut2n1u"
+        },
+        {
+          "Name": "label",
+          "Value": "main.acdc69099c9fdee5.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA="
+        }
+      ]
+    },
+    {
+      "Route": "main.acdc69099c9fdee5.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\eaymhqa00c-egzbut2n1u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012862233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77746"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY="
+        }
+      ]
+    },
+    {
+      "Route": "main.acdc69099c9fdee5.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ptr87WLvoXwJg2OxHYLQUlQLi13hxDKyoPp8nfCOzoY="
+        }
+      ]
+    },
+    {
+      "Route": "main.acdc69099c9fdee5.js.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\eaymhqa00c-egzbut2n1u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:44:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CKHSc30X+ok/o6fxB+QL8NTJWvKe5Vv66OJw3W9grTA="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills.ab9b321a0fa4f29a.8tqmtfx85d.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\bj40nk9shw-8tqmtfx85d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000083626024"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11957"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8tqmtfx85d"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills.ab9b321a0fa4f29a.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills.ab9b321a0fa4f29a.8tqmtfx85d.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8tqmtfx85d"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills.ab9b321a0fa4f29a.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills.ab9b321a0fa4f29a.8tqmtfx85d.js.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\bj40nk9shw-8tqmtfx85d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8tqmtfx85d"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills.ab9b321a0fa4f29a.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills.ab9b321a0fa4f29a.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\bj40nk9shw-8tqmtfx85d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000083626024"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11957"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills.ab9b321a0fa4f29a.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOWsi23aQJD/t9FhVealx7Enfy7U9VE06NcGGST6Edg="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills.ab9b321a0fa4f29a.js.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\bj40nk9shw-8tqmtfx85d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7TNoMzpvfR0gfEi8g90vofFkUvrlgD2UWupr4pbvngc="
+        }
+      ]
+    },
+    {
+      "Route": "runtime.9cf8d86347a53186.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\mgist2n98n-yozothd93o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001798561151"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "555"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU="
+        }
+      ]
+    },
+    {
+      "Route": "runtime.9cf8d86347a53186.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\runtime.9cf8d86347a53186.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU="
+        }
+      ]
+    },
+    {
+      "Route": "runtime.9cf8d86347a53186.js.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\mgist2n98n-yozothd93o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY="
+        }
+      ]
+    },
+    {
+      "Route": "runtime.9cf8d86347a53186.yozothd93o.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\mgist2n98n-yozothd93o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001798561151"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "555"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yozothd93o"
+        },
+        {
+          "Name": "label",
+          "Value": "runtime.9cf8d86347a53186.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU="
+        }
+      ]
+    },
+    {
+      "Route": "runtime.9cf8d86347a53186.yozothd93o.js",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\runtime.9cf8d86347a53186.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yozothd93o"
+        },
+        {
+          "Name": "label",
+          "Value": "runtime.9cf8d86347a53186.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TgQLboeCp+rWofxDh4icJgqw4nsvIBDIlILANG09BtU="
+        }
+      ]
+    },
+    {
+      "Route": "runtime.9cf8d86347a53186.yozothd93o.js.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\mgist2n98n-yozothd93o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 16:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yozothd93o"
+        },
+        {
+          "Name": "label",
+          "Value": "runtime.9cf8d86347a53186.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P76C33VvKV0d8NNeJc49FhFKtkvLeXSZoDB7maYmOMY="
+        }
+      ]
+    },
+    {
+      "Route": "styles.12f868ae3078258c.b6b56o3puo.css",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\65rk88ic3o-b6b56o3puo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007575757576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:42:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6b56o3puo"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.12f868ae3078258c.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0="
+        }
+      ]
+    },
+    {
+      "Route": "styles.12f868ae3078258c.b6b56o3puo.css",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:42:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6b56o3puo"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.12f868ae3078258c.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0="
+        }
+      ]
+    },
+    {
+      "Route": "styles.12f868ae3078258c.b6b56o3puo.css.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\65rk88ic3o-b6b56o3puo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:42:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6b56o3puo"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.12f868ae3078258c.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles.12f868ae3078258c.css",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\65rk88ic3o-b6b56o3puo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007575757576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:42:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0="
+        }
+      ]
+    },
+    {
+      "Route": "styles.12f868ae3078258c.css",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:42:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-013MhrqGDFIR1tjKKRLkrtRxj8eer80YAvMV0o0yGR0="
+        }
+      ]
+    },
+    {
+      "Route": "styles.12f868ae3078258c.css.gz",
+      "AssetFile": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\obj\\Debug\\net9.0\\compressed\\65rk88ic3o-b6b56o3puo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:42:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pP2rIibLNUjjlQ6HYZrd4w+28w1yVeCkkZqZU9SbBaQ="
+        }
+      ]
+    }
+  ]
+}

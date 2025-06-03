@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico",
+      "PackagePath": "staticwebassets\\gameController.ico"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js",
+      "PackagePath": "staticwebassets\\main.acdc69099c9fdee5.js"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js",
+      "PackagePath": "staticwebassets\\polyfills.ab9b321a0fa4f29a.js"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\runtime.9cf8d86347a53186.js",
+      "PackagePath": "staticwebassets\\runtime.9cf8d86347a53186.js"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css",
+      "PackagePath": "staticwebassets\\styles.12f868ae3078258c.css"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.apiWebpractice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.apiWebpractice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.apiWebpractice.props",
+      "PackagePath": "build\\apiWebpractice.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.apiWebpractice.props",
+      "PackagePath": "buildMultiTargeting\\apiWebpractice.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.apiWebpractice.props",
+      "PackagePath": "buildTransitive\\apiWebpractice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
