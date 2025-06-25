@@ -5,20 +5,36 @@
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\assets\\images\\dirt2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dirt2.jpg"
     },
     {
-      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\gameController.ico",
-      "PackagePath": "staticwebassets\\gameController.ico"
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\assets\\images\\origins.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\origins.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\assets\\images\\residentevilwwal.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\residentevilwwal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\assets\\images\\spider.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\spider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\assets\\images\\withcer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\withcer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.acdc69099c9fdee5.js",
-      "PackagePath": "staticwebassets\\main.acdc69099c9fdee5.js"
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\main.a2ac77f7297edcda.js",
+      "PackagePath": "staticwebassets\\main.a2ac77f7297edcda.js"
     },
     {
       "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\polyfills.ab9b321a0fa4f29a.js",
@@ -29,8 +45,8 @@
       "PackagePath": "staticwebassets\\runtime.9cf8d86347a53186.js"
     },
     {
-      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.12f868ae3078258c.css",
-      "PackagePath": "staticwebassets\\styles.12f868ae3078258c.css"
+      "Id": "C:\\Users\\nihaa\\source\\repos\\apiWebpractice\\apiWebpractice\\wwwroot\\styles.4095c1844e1d3fd1.css",
+      "PackagePath": "staticwebassets\\styles.4095c1844e1d3fd1.css"
     },
     {
       "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.apiWebpractice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

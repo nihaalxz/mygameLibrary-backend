@@ -7,6 +7,11 @@ C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\Pub
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Azure.Core.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Azure.Identity.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Humanizer.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
@@ -35,6 +40,10 @@ C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\Pub
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\nihaa\source\repos\apiWebpractice\apiWebpractice\obj\Release\net9.0\PubTmp\Out\Microsoft.Extensions.Options.dll

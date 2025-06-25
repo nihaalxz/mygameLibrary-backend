@@ -1,5 +1,4 @@
 ﻿using apiWebpractice.Models;
-using apiWebpractice.VideoGameDBContext;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
